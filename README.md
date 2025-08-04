@@ -41,6 +41,4 @@ The aim of this work is to develop a program that applies machine learning metho
 - Developed a simple GUI for image viewing, segmentation execution, and saving results as images or GIFs.
 - Evaluated model accuracy using standard segmentation metrics.
 
-## Repository Structure
 
--
