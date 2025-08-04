@@ -28,4 +28,19 @@ The aim of this work is to develop a program that applies machine learning metho
 ## Methods and Technologies Used
 
 - **Jupyter Notebook** - interctive environment for code? text, and visualization.
-- 
+- **Google Colab** - cloud platform with GPU support.
+- **Python** - programming language used.
+- **PyTorch** - machine learning library for deep learning models.
+- **Tkinter** - library for creating desktop GUI applications.
+
+---
+
+## Results
+- Utilized the open-source BraTS 2020 dataset from Kaggle:[https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation]
+- Trained 2D and 3D U-Net models for brain tumor segmentation on MRI images.
+- Developed a simple GUI for image viewing, segmentation execution, and saving results as images or GIFs.
+- Evaluated model accuracy using standard segmentation metrics.
+
+## Repository Structure
+
+-
