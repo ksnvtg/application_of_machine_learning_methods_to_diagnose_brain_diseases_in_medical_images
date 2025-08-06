@@ -7,7 +7,8 @@ Patients were randomly shuffled using a fixed random seed to ensure reproducibil
           Figure 1 - Divison of the dataset into Train (69.9%), Validation (14.9%), and Test (15.2%) subsets
 
 <img width="442" height="282" alt="зображення" src="https://github.com/user-attachments/assets/690bfd23-bc8e-42a2-9a7d-861605f4a798" />
-         Figure 2 - Results test model
+         
+Figure 2 - Results test model
 
 
 **Evaluation Results on Test Dataset**
