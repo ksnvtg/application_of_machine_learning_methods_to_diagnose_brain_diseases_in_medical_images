@@ -4,7 +4,8 @@ After that, the entire dataset of patients was split into three subsets:
 * 56 patients (15.2%) - test set (test.txt)
 Patients were randomly shuffled using a fixed random seed to ensure reproducibility. The split results were saved into text files for automatic loading during training, as illustrated in Fig 1.
 <img width="858" height="518" alt="зображення" src="https://github.com/user-attachments/assets/c081ec6d-6a62-41be-b8b0-19c06b2e4056" />
-          Figure 1 - Divison of the dataset into Train (69.9%), Validation (14.9%), and Test (15.2%) subsets
+
+Figure 1 - Divison of the dataset into Train (69.9%), Validation (14.9%), and Test (15.2%) subsets
 
 <img width="442" height="282" alt="зображення" src="https://github.com/user-attachments/assets/690bfd23-bc8e-42a2-9a7d-861605f4a798" />
          
